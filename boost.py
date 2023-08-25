@@ -77,7 +77,7 @@ except ValueError:
   sys.exit()
   
 if c == 1:
-  invv = input("[-] Blust#9380 | Enter Invite Code: discord.gg/")
+  invv = input("[-] Blust#9380 | Enter Invite Code: https://discord.gg/dHt95rwMgt
   asyncio.run(start_join(invv))
 elif c == 2:
   g = int(input("[-] Blust#9380 | Enter Guild ID: "))
